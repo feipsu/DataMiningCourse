@@ -1,0 +1,32 @@
+---
+title: "Project 1"
+output: html_notebook
+---
+
+
+#Introduction
+
+#Description of Data
+
+#Analysis
+
+```{r LDA - Fei}
+
+```
+
+```{r QDA - Fei}
+
+```
+
+```{r Log Regression - Mer}
+
+```
+
+```{r Model Comparison - Mer}
+
+```
+
+#Results
+
+#Conclusions
+
