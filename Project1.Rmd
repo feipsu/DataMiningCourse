@@ -5,7 +5,7 @@ output: html_notebook
 
 
 #Introduction
-# Project1: Meridith and Fei
+# Project1: Meridith and Fei......
 #Description of Data
 
 #Analysis
